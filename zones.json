@@ -1,0 +1,54 @@
+{
+  "markers": [
+    {
+      "pin": "green",
+      "text": "SDSMO Zone 1 - Alpha\nPru Eurk YD-Q C19-4\n(-2670, 327, 1092)",
+      "x": -2670,
+      "y": 327,
+      "z": 1092
+    },
+    {
+      "pin": "cyan",
+      "text": "SDSMO Zone 2 - Alpha\nPru Eurk UE-O C20-10\n(-3079, 177, 1131)",
+      "x": -3079,
+      "y": 177,
+      "z": 1131
+    },
+    {
+      "pin": "purple",
+      "text": "SDSMO Zone 3 - Alpha\nPru Eurk OF-M c21-5\n(-3572, 172, 1140)",
+      "x": -3572,
+      "y": 172,
+      "z": 1140
+    },
+
+    {
+      "pin": "yellow",
+      "text": "IFS - Col89-1\nCol 89 Sector YS-O B36-0\n(79, 258, -4003)",
+      "x": 79,
+      "y": 258,
+      "z": -4003
+    },
+    {
+      "pin": "yellow",
+      "text": "IFS - PlaaThua-1\nPlaa Thua IM-P B5-1\n(664, -6, -3494)",
+      "x": 664,
+      "y": -6,
+      "z": -3494
+    },
+    {
+      "pin": "yellow",
+      "text": "IFS - Hypiae-1\nHypiae AIP VV-C C26-14\n(4384, 23, -5048)",
+      "x": 4384,
+      "y": 23,
+      "z": -5048
+    },
+    {
+      "pin": "yellow",
+      "text": "IFS - Gludgai-1\nGludgai US-W C16-1\n(8902, 500, -4161)",
+      "x": 8902,
+      "y": 500,
+      "z": -4161
+    }
+  ]
+}
