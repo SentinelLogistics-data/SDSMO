@@ -1,2 +1,12 @@
 Sentinel Deep Space Mining Operations (SDSMO) was created and maintained by the Deep Space Surveying program of Sentinel Logistic Services. 
-Observations can be tracked on ED Astro using this link: https://edastro.com/galmap/?custom=https://raw.githubusercontent.com/SentinelLogistics-data/SDSMO/refs/heads/main/zones.json
+Observations can be tracked on ED Astro using this link: 
+https://edastro.com/galmap/?custom=https://raw.githubusercontent.com/SentinelLogistics-data/SDSMO/refs/heads/main/zones.json
+
+About SDSMO
+The purpose of the project is to map and maintain a list of potential mining operations, with focus on two types of operations; core mining and fuel mining. 
+
+Zones 1, 2, and 3 were chosen at random. The "alpha" system represents the first mineable system in that grouping. 
+A discovery scan was done on surrounding systems, followed by a FSS. Ringed planets had a surface scan done to find core types. A breakdown can be found in the "Sites" file.
+
+Interstallar Fuel Sites (IFS) are not related to the zone scans done in the first grouping. IFS markers represent sites found during dedicated refuelling missions
+while moving a carrier long distances. No other core data is maintained for these datapoints, only that the site contains tritium. 
