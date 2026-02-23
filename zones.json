@@ -2,21 +2,21 @@
   "markers": [
     {
       "pin": "green",
-      "text": "SDSMO Zone 1 - Alpha\nPru Eurk YD-Q C19-4\n(-2670, 327, 1092)",
+      "text": "SDSMO Zone 1 - Pru Eurk YD-Q C19-4\n(-2670, 327, 1092)",
       "x": -2670,
       "y": 327,
       "z": 1092
     },
     {
       "pin": "cyan",
-      "text": "SDSMO Zone 2 - Alpha\nPru Eurk UE-O C20-10\n(-3079, 177, 1131)",
+      "text": "SDSMO Zone 2 - Pru Eurk UE-O C20-10\n(-3079, 177, 1131)",
       "x": -3079,
       "y": 177,
       "z": 1131
     },
     {
       "pin": "purple",
-      "text": "SDSMO Zone 3 - Alpha\nPru Eurk OF-M c21-5\n(-3572, 172, 1140)",
+      "text": "SDSMO Zone 3 - Pru Eurk OF-M c21-5\n(-3572, 172, 1140)",
       "x": -3572,
       "y": 172,
       "z": 1140
@@ -51,4 +51,5 @@
       "z": -4161
     }
   ]
+
 }
